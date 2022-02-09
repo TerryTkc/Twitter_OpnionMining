@@ -1,0 +1,29 @@
+{
+    "cities": {
+            "New York City": {
+                "name": "new_york_city",
+                "latlongmi": "40.712728,-74.006015,18mi"
+            },
+            "Miami": {
+                "name": "miami",
+                "latlongmi": "25.774266,-80.193659,8mi"
+            },
+            "San Jose": {
+                "name": "san_jose",
+                "latlongmi": "37.336191,-121.890583,14mi"
+            },
+            "Omaha": {
+                "name": "omaha",
+                "latlongmi": "41.258746,-95.938376,12mi"
+            },
+            "Cheyenne": {
+                "name": "cheyenne",
+                "latlongmi": "41.1400,-104.805450,6mi"
+            },
+            "Delaware": {
+                "name": "delaware",
+                "latlongmi": "40.298898,-83.072007,5mi"
+            }
+        
+    }
+}
