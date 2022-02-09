@@ -1,4 +1,4 @@
-Social Media Mining Project: Opinion Mining on Tweets
+# Social Media Mining Project: Opinion Mining on Tweets
 
 • Collected real-time tweets and applied VADER to quantify the positivity/negativity of the tweets.
 
